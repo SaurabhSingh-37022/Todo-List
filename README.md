@@ -1,5 +1,5 @@
 # Todo-List
 
-# Frontend Start - npm run dev
+# Frontend Start -> npm run dev
 
-# Backend Start - npm start
+# Backend Start -> terminal - cd server - npm start

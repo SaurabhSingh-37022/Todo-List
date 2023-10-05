@@ -5,10 +5,11 @@
 # Backend Start -> terminal - cd server - npm start
 
 # Output
-![CREATE](https://github.com/SaurabhSingh-37022/Todo-List/assets/123235235/dd71b3d1-7e73-43bc-ba21-6ac12b63cc5a)
 
-![UPDATE](https://github.com/SaurabhSingh-37022/Todo-List/assets/123235235/b7697a20-12f2-415f-8457-54bb1fbbf6c9)
+![CREATE](https://github.com/SaurabhSingh-37022/Todo-List/assets/123235235/d0ed7d14-7f6f-4639-8a18-304c33a89dc6)
 
-![READ)](https://github.com/SaurabhSingh-37022/Todo-List/assets/123235235/9cb0ab89-b665-40ce-81ea-1685fe636960)
+![READ](https://github.com/SaurabhSingh-37022/Todo-List/assets/123235235/2b957417-859a-4296-a57f-17769b1071f1)
 
-![DELETE)](https://github.com/SaurabhSingh-37022/Todo-List/assets/123235235/1a96e641-3c0b-4fee-9d46-3d4ed3411cb3)
+![UPDATE](https://github.com/SaurabhSingh-37022/Todo-List/assets/123235235/1389a41c-0f13-450c-b933-4da8c06c9658)
+
+![DELETE](https://github.com/SaurabhSingh-37022/Todo-List/assets/123235235/51e9f7e9-6af3-484c-b133-5f4d0a046f65)
